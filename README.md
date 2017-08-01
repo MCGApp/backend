@@ -11,6 +11,7 @@
 Returns a JSON Object with all the News from our school. The News source currently is [this RSS Feed](http://www.mcg.gehrden.de/portal/rss.xml). Maybe we switch someday to [mcg-news.com](http://www.mcg.news.com) when its done!
 
 To save Bandwith the JSON is "minimized" which means that the Key Values are shortened which saves around 1700 Characters per Load. Take a look at this table:
+
 |Short Key  |Long Key         |Info                                 |Data Type        |
 | :-------: | :-------------: |:-----------------------------------:|:---------------:|
 |de         | Description     | RSS Feeds Description               | String          |
